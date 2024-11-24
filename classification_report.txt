@@ -1,0 +1,10 @@
+               precision    recall  f1-score   support
+
+fall_armyworm       1.00      0.99      0.99       600
+        snail       1.00      0.99      1.00       600
+   stem_borer       0.99      0.99      0.99       600
+      unknown       0.99      1.00      0.99       600
+
+     accuracy                           0.99      2400
+    macro avg       0.99      0.99      0.99      2400
+ weighted avg       0.99      0.99      0.99      2400
